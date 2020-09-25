@@ -203,11 +203,11 @@ html {
     .text {
         display: inline-block;
         color: white;
-        margin-left: 10vw;
+        margin-left: 8vw;
         margin-top: 8vw;
         float: left;
         font-size: 4vw;
-        margin-right: 3vw;
+        margin-right: 4vw;
     }
 
     .line1 {
