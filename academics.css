@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
 }
 
 body {
@@ -9,6 +11,7 @@ body {
     height:100vh;
     background-color: black;
     position: absolute;
+    color: white;
   }
 
 .ham-bar{
@@ -115,3 +118,69 @@ body {
     z-index: 0;
 }
 
+.line1 {
+    width: 11vw;
+    height: 0.3vw;
+    background-color: rgb(255, 53, 228);
+    margin-top: 2vw;
+    position: relative;
+    margin-left: 46.5vw;
+    border-radius: 25%;
+}
+
+.line2 {
+    width: 11vw;
+    height: 0.3vw;
+    background-color: rgb(255, 53, 228);
+    position: relative;
+    margin-left: 40vw;
+    border-radius: 25%;
+}
+
+.heading {
+    color: white;
+    position: relative;
+    margin-left: 40vw;
+    font-size: 3vw;
+}
+
+.list {
+    padding-top: 3vw;
+    text-align: center;
+    color: white;
+    margin-left: 18vw;
+    margin-right: 4vw;
+    position: relative;
+    margin-top: 3vw;
+    font-size: 2vw;
+}
+
+@media (max-width: 900px) {
+    .heading {
+        color: white;
+        position: relative;
+        margin-top: 1vw;
+        margin-left: 5vw;
+        font-size: 4vw;
+    }
+    
+    .line1 {
+        width: 16vw;
+        height: 0.5vw;
+        background-color: rgb(255, 53, 228);
+        margin-top: 14vw;
+        position: relative;
+        margin-left: 16vw;
+        border-radius: 25%;
+    }
+    
+    .line2 {
+        width: 16vw;
+        height: 0.5vw;
+        background-color: rgb(255, 53, 228);
+        margin-top: 0.5vw;
+        position: relative;
+        margin-left: 5vw;
+        border-radius: 25%;
+    }
+}

@@ -134,14 +134,15 @@ body {
 .heading {
     display: inline-block;
     color: white;
-    margin-left: 72vw;
+    margin-left: 76vw;
     position: relative;
-    margin-top: -30vw;
+    margin-top: -29vw;
     float: left;
-    font-size: 5vw;
+    font-size: 4vw;
 }
 
 .text {
+    text-align: justify;
     display: inline-block;
     color: white;
     margin-left: 36vw;
@@ -153,22 +154,22 @@ body {
 }
 
 .line1 {
-    width: 15vw;
+    width: 14vw;
     height: 0.5vw;
     background-color: rgb(255, 53, 228);
     margin-top: 10vw;
     position: relative;
-    margin-left: 81vw;
+    margin-left: 82vw;
     border-radius: 25%;
 }
 
 .line2 {
-    width: 15vw;
+    width: 14vw;
     height: 0.5vw;
     background-color: rgb(255, 53, 228);
     margin-top: 5vw;
     position: relative;
-    margin-left: 72vw;
+    margin-left: 76vw;
     border-radius: 25%;
 }
 
