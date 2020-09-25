@@ -194,7 +194,7 @@ html {
 
     .head-name {
         float: left;
-        font-size: 13vw;
+        font-size: 12vw;
         font-weight: 150;
         color: rgb(255, 255, 255);
         margin-top: 40vw;
@@ -206,7 +206,7 @@ html {
 
     #contactContainer {
         float: left;
-        margin-top: 36vw;
+        margin-top: 34vw;
         margin-left: 18vw;
         position: relative;
         z-index: 10;
@@ -244,7 +244,7 @@ html {
     .big-avatar img {
       width: 50%;
       margin-right:27vw;
-      margin-top: 10vw;
+      margin-top: 8vw;
       height: auto;
       position: relative;
     }
