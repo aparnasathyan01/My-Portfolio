@@ -198,6 +198,7 @@ html {
         color: rgb(255, 255, 255);
         margin-top: 40vw;
         margin-left: 8vw;
+        margin-right: 1vw;
         position: relative;
         z-index: 10;
     }
