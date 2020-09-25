@@ -197,8 +197,8 @@ html {
         font-weight: 150;
         color: rgb(255, 255, 255);
         margin-top: 40vw;
-        margin-left: 8vw;
-        margin-right: 1vw;
+        margin-left: 6vw;
+        margin-right: 3vw;
         position: relative;
         z-index: 10;
     }
@@ -237,7 +237,7 @@ html {
     .avatar {
         max-width: 150%;
         position: fixed;
-        margin-left: 10vw;
+        margin-left: 8vw;
     }
 
     .big-avatar img {
