@@ -120,6 +120,7 @@ body {
 }
 
 .big-avatar img {
+    width: 35%;
     display: inline-block;
     float: right;
     max-width: 75%;
@@ -154,7 +155,7 @@ body {
     z-index: 10;
 }
 
-.icon { 
+.icon {
     margin-left: 6vw;
     text-decoration: none;
     text-align: center;
@@ -189,13 +190,13 @@ html {
     img {
         align-content: center;
     }
-    
+
     .head-name {
         float: left;
         font-size: 15.5vw;
         font-weight: 150;
         color: rgb(255, 255, 255);
-        margin-top: 30vw;
+        margin-top: 40vw;
         margin-left: 8vw;
         position: relative;
         z-index: 10;
@@ -203,8 +204,8 @@ html {
 
     #contactContainer {
         float: left;
-        margin-top: 5vw;
-        margin-left: 8vw;
+        margin-top: 30vw;
+        margin-left: 18vw;
         position: relative;
         z-index: 10;
         width: 50vw;
@@ -220,18 +221,18 @@ html {
     a {
         color: rgb(255, 53, 228);
     }
-    
+
     a:visited {
         text-decoration: none;
     }
-    
+
     .avatar img {
         float: left;
         max-width: 12%;
         height: auto;
         position: fixed;
     }
-    
+
     .avatar {
         max-width: 150%;
         position: fixed;
@@ -239,13 +240,13 @@ html {
     }
 
     .big-avatar img {
-        max-width: 10vw;
-        margin-top: 50vw;
-        margin-left: 8vw;
-        height: auto;
-        position: fixed;
+      width: 50%;
+      margin-right:27vw;
+      margin-top: 10vw;
+      height: auto;
+      position: relative;
     }
-    
+
     .big-avatar {
         max-width: 100%;
         position: relative;
