@@ -193,19 +193,19 @@ html {
 
     .head-name {
         float: left;
-        font-size: 15vw;
+        font-size: 14vw;
         font-weight: 150;
         color: rgb(255, 255, 255);
         margin-top: 40vw;
         margin-left: 6vw;
-        margin-right: 3vw;
+        margin-right: 4vw;
         position: relative;
         z-index: 10;
     }
 
     #contactContainer {
         float: left;
-        margin-top: 30vw;
+        margin-top: 35vw;
         margin-left: 18vw;
         position: relative;
         z-index: 10;
