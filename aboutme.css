@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
 }
 
 body {
@@ -115,3 +117,117 @@ body {
     z-index: 0;
 }
 
+.profile{
+    display: inline-block;
+    float: left;
+    width: 70%;
+    margin-left:5vw;
+    margin-top: 10.6vw;
+    height: auto;
+    position: relative;
+}
+
+.profile img{
+    border-radius: 6%;
+}
+
+.heading {
+    display: inline-block;
+    color: white;
+    margin-left: 72vw;
+    position: relative;
+    margin-top: -30vw;
+    float: left;
+    font-size: 5vw;
+}
+
+.text {
+    display: inline-block;
+    color: white;
+    margin-left: 36vw;
+    margin-right: 2vw;
+    position: relative;
+    margin-top: -21vw;
+    float: left;
+    font-size: 2vw;
+}
+
+.line1 {
+    width: 15vw;
+    height: 0.5vw;
+    background-color: rgb(255, 53, 228);
+    margin-top: 10vw;
+    position: relative;
+    margin-left: 81vw;
+    border-radius: 25%;
+}
+
+.line2 {
+    width: 15vw;
+    height: 0.5vw;
+    background-color: rgb(255, 53, 228);
+    margin-top: 5vw;
+    position: relative;
+    margin-left: 72vw;
+    border-radius: 25%;
+}
+
+img,
+body,
+html {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+    img {
+        align-content: center;
+    }
+
+    .profile {
+        text-align: center;
+        margin-left: auto;
+        width: 100%;
+        margin-top: 30vw;
+        height: auto;
+        position: relative;
+    }    
+
+    .heading {
+        color: white;
+        margin-left: 28vw;
+        margin-top: -2vw;
+        font-size: 9vw;
+    }
+
+    .text {
+        display: inline-block;
+        color: white;
+        margin-left: 10vw;
+        margin-top: 8vw;
+        float: left;
+        font-size: 4vw;
+        margin-right: 3vw;
+    }
+
+    .line1 {
+        width: 24vw;
+        height: 0.5vw;
+        background-color: rgb(255, 53, 228);
+        margin-top: 80vw;
+        position: relative;
+        margin-left: 48vw;
+        border-radius: 25%;
+    }
+    
+    .line2 {
+        width: 24vw;
+        height: 0.5vw;
+        background-color: rgb(255, 53, 228);
+        margin-top: 10vw;
+        position: relative;
+        margin-left: 28vw;
+        border-radius: 25%;
+    }
+
+}    

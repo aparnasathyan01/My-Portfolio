@@ -9,6 +9,8 @@ body {
     height:100vh;
     background-color: black;
     position: absolute;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
   }
 
 .ham-bar{
@@ -74,7 +76,6 @@ body {
     font-size: 25px;
     color: white;
     font-weight:300;
-    letter-spacing: 2px;
     text-transform: uppercase;
     position: relative;
 }
@@ -137,7 +138,7 @@ body {
 .head-name {
     display: inline-block;
     float: left;
-    font-size: 7vw;
+    font-size: 6vw;
     font-weight: 150;
     color: rgb(255, 255, 255);
     margin-top: 15vw;
@@ -193,7 +194,7 @@ html {
 
     .head-name {
         float: left;
-        font-size: 12vw;
+        font-size: 13vw;
         font-weight: 150;
         color: rgb(255, 255, 255);
         margin-top: 40vw;
