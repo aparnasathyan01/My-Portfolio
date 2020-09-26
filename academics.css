@@ -159,28 +159,39 @@ body {
     .heading {
         color: white;
         position: relative;
-        margin-top: 1vw;
+        margin-top: 0.5vw;
         margin-left: 5vw;
-        font-size: 4vw;
+        font-size: 7vw;
     }
     
     .line1 {
-        width: 16vw;
-        height: 0.5vw;
+        width: 23vw;
+        height: 0.8vw;
         background-color: rgb(255, 53, 228);
         margin-top: 14vw;
         position: relative;
-        margin-left: 16vw;
+        margin-left: 17vw;
         border-radius: 25%;
     }
     
     .line2 {
-        width: 16vw;
-        height: 0.5vw;
+        width: 23vw;
+        height: 0.8vw;
         background-color: rgb(255, 53, 228);
         margin-top: 0.5vw;
         position: relative;
         margin-left: 5vw;
         border-radius: 25%;
+    }
+
+    .text {
+        text-align: justify;
+        color: white;
+        margin-left: 5vw;
+        margin-right: 4vw;
+        position: relative;
+        margin-top: 4vw;
+        float: left;
+        font-size: 5vw;
     }
 }
