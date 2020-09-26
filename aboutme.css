@@ -136,9 +136,10 @@ body {
     color: white;
     margin-left: 76vw;
     position: relative;
-    margin-top: -29vw;
+    margin-top: -29.5vw;
     float: left;
     font-size: 4vw;
+    text-transform: uppercase;
 }
 
 .text {
@@ -155,22 +156,20 @@ body {
 
 .line1 {
     width: 14vw;
-    height: 0.5vw;
+    height: 0.3vw;
     background-color: rgb(255, 53, 228);
     margin-top: 10vw;
     position: relative;
     margin-left: 82vw;
-    border-radius: 25%;
 }
 
 .line2 {
     width: 14vw;
-    height: 0.5vw;
+    height: 0.3vw;
     background-color: rgb(255, 53, 228);
     margin-top: 5vw;
     position: relative;
     margin-left: 76vw;
-    border-radius: 25%;
 }
 
 img,
@@ -199,6 +198,7 @@ html {
         margin-left: 28vw;
         margin-top: -2vw;
         font-size: 9vw;
+        text-transform: uppercase;
     }
 
     .text {
@@ -218,7 +218,6 @@ html {
         margin-top: 80vw;
         position: relative;
         margin-left: 48vw;
-        border-radius: 25%;
     }
     
     .line2 {
@@ -228,7 +227,6 @@ html {
         margin-top: 10vw;
         position: relative;
         margin-left: 28vw;
-        border-radius: 25%;
     }
 
 }    
