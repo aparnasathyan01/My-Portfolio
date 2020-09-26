@@ -136,7 +136,7 @@ body {
     color: white;
     margin-left: 80vw;
     position: relative;
-    margin-top: -28.5vw;
+    margin-top: -28vw;
     float: left;
     font-size: 3vw;
     text-transform: uppercase;
@@ -167,7 +167,7 @@ body {
     width: 10vw;
     height: 0.3vw;
     background-color: rgb(255, 53, 228);
-    margin-top: 3.5vw;
+    margin-top: 4vw;
     position: relative;
     margin-left: 80vw;
 }
