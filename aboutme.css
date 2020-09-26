@@ -134,11 +134,11 @@ body {
 .heading {
     display: inline-block;
     color: white;
-    margin-left: 76vw;
+    margin-left: 80vw;
     position: relative;
-    margin-top: -29.5vw;
+    margin-top: -28.5vw;
     float: left;
-    font-size: 4vw;
+    font-size: 3vw;
     text-transform: uppercase;
 }
 
@@ -147,7 +147,7 @@ body {
     display: inline-block;
     color: white;
     margin-left: 36vw;
-    margin-right: 2vw;
+    margin-right: 4vw;
     position: relative;
     margin-top: -21vw;
     float: left;
@@ -155,21 +155,21 @@ body {
 }
 
 .line1 {
-    width: 14vw;
+    width: 10vw;
     height: 0.3vw;
     background-color: rgb(255, 53, 228);
-    margin-top: 10vw;
+    margin-top: 11vw;
     position: relative;
-    margin-left: 82vw;
+    margin-left: 85vw;
 }
 
 .line2 {
-    width: 14vw;
+    width: 10vw;
     height: 0.3vw;
     background-color: rgb(255, 53, 228);
-    margin-top: 5vw;
+    margin-top: 3.5vw;
     position: relative;
-    margin-left: 76vw;
+    margin-left: 80vw;
 }
 
 img,
