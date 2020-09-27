@@ -65,6 +65,7 @@ body {
 
 .ham-list{
     text-align: right;
+    line-height: 2vw;
 }
 
 .ham-item{
@@ -143,7 +144,7 @@ body {
     text-transform: uppercase;
 }
 
-.list {
+.schoollist {
     padding-top: 3vw;
     text-align: center;
     color: white;
@@ -187,7 +188,7 @@ body {
         margin-left: 5vw;
     }
 
-    .list {
+    .schoollist {
         text-align: justify;
         color: white;
         margin-left: 5vw;
