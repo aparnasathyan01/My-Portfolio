@@ -4,3 +4,4 @@ function handleClick(){
     hambar.classList.toggle("change");
 }
 menuIcon.addEventListener('click', handleClick);
+
