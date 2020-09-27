@@ -152,6 +152,11 @@ body {
     position: relative;
     margin-top: 3vw;
     font-size: 2vw;
+    line-height: 4vw;
+}
+
+.colortext{
+    color: rgb(255, 53, 228);
 }
 
 @media (max-width: 900px) {
@@ -170,7 +175,7 @@ body {
         background-color: rgb(255, 53, 228);
         margin-top: 14vw;
         position: relative;
-        margin-left: 17vw;
+        margin-left: 25vw;
     }
     
     .line2 {
@@ -191,5 +196,6 @@ body {
         margin-top: 4vw;
         float: left;
         font-size: 5vw;
+        line-height: 9vw;
     }
 }

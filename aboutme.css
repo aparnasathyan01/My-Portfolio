@@ -147,7 +147,7 @@ body {
     display: inline-block;
     color: white;
     margin-left: 36vw;
-    margin-right: 4vw;
+    margin-right: 4.5vw;
     position: relative;
     margin-top: -21vw;
     float: left;
@@ -217,7 +217,7 @@ html {
         background-color: rgb(255, 53, 228);
         margin-top: 80vw;
         position: relative;
-        margin-left: 48vw;
+        margin-left: 50vw;
     }
     
     .line2 {

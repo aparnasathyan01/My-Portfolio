@@ -212,7 +212,7 @@ a:visited {
         background-color: rgb(255, 53, 228);
         margin-top: 14vw;
         position: relative;
-        margin-left: 14vw;
+        margin-left: 18vw;
     }
     
     .line2 {
@@ -240,7 +240,7 @@ a:visited {
     }
 
     a {
-        color: white;
+        color: rgb(255, 53, 228);
     }
 
     a:visited {
